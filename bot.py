@@ -94,4 +94,4 @@ class Music(commands.Cog):
         
         await ctx.voice_client.disconnect()
 
-bot.run('OTI3NjExNjM2NTQ4Nzg4MjQ1.YdMvqA.R4CDLPm1GIpLbsyizzN9gKoNBjI')
+bot.run('Token')
